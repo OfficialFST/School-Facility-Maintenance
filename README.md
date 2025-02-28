@@ -20,3 +20,7 @@ The canvas app provides a customizable user interface, tailored for specific mai
 **Service:** Coordinates the services required for addressing maintenance tasks, including assigning service providers and tracking service completion.
 
 **Maintenance Priority:** Helps prioritize maintenance tasks based on urgency and importance, ensuring that critical issues are addressed promptly.
+
+**Flow:** Actions
+
+Automated workflows are implemented through modern flow technology, streamlining repetitive tasks and improving response times. These flows automate processes such as issue assignments, notifications, and status updates.
