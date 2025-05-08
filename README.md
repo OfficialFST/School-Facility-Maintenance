@@ -15,7 +15,7 @@ The canvas app provides a customizable user interface, tailored for specific mai
 
 **Issue Log:** Tracks all maintenance issues reported within the school facilities, including issue descriptions, reported dates, and current statuses.
 
-**Location:** Manages information about different locations within the school, such as classrooms, restrooms, playgrounds, and administrative offices.
+**Location:** Manages information about different locations within the school, such as Offices, classrooms, restrooms, playgrounds, and administrative offices.
 
 **Service:** Coordinates the services required for addressing maintenance tasks, including assigning service providers and tracking service completion.
 
